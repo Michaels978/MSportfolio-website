@@ -118,3 +118,46 @@ p {
     margin-top: 50px;
     margin-bottom: 40px;
 }
+
+.social-icons ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;    
+    
+}
+
+.social-icons li {
+    display: inline-block;
+    margin: 0 50px;
+    margin-top: 30px;
+    
+}
+
+.social-icons i {
+    font-size: 4em;
+    color: black;    
+}
+
+.fa-facebook:hover{
+    color: #4267b2;
+}
+
+.fa-instagram:hover{
+    color: #C13584;
+}
+
+.fa-linkedin:hover{
+    color: #0077B5;
+}
+
+.fa-github:hover{
+    color: #c9510c;
+}
+
+.fa-envelope:hover{
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+}
